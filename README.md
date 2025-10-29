@@ -31,3 +31,30 @@ This project is a static, front-end website built to promote **Level Ground Mixe
 
 ## 📁 File Structure  
 
+LevelGround/
+├── index.html
+├── css/
+│ └── style.css
+├── img/
+│ ├── LGtop.png
+│ └── LGbottom.png
+└── README.md
+
+---
+
+## 🚀 Features  
+
+✨ **Clean, minimalist design** — clear typography and visual hierarchy  
+🥋 **Mission-focused content** — emphasizes empowerment and opportunity  
+💡 **Call-to-action buttons** — "Hire Us", "See Classes", "Volunteer", "Donate"  
+📬 **Social and contact info** — integrated footer section  
+🌍 **Fully static front-end** — easy to deploy anywhere (GitHub Pages, Netlify, etc.)  
+
+---
+
+## 🧠 How to Run Locally  
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/yourusername/LevelGround.git
+
