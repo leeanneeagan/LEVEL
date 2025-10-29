@@ -1,20 +1,19 @@
 # 🥋 Level Ground Mixed Martial Arts Website  
 
+
 ### 💥 Where Grit Meets Opportunity  
 
-The **Level Ground (LG)** website showcases how urban youth cultivate **grit and resilience** through Mixed Martial Arts — applying these values “off the mat” toward their goals in life, education, and leadership.  
+The **Level Ground (LG)** website highlights how urban youth cultivate **grit and resilience** through Mixed Martial Arts — applying these values *off the mat* to reach their goals and create opportunities for success.  
 
 ---
 
 ## 🖥️ Project Overview  
 
-This project is a front-end website built to promote **Level Ground Mixed Martial Arts**, highlight its mission, and encourage community involvement.  
-
-It includes:  
-- Program overview and mission statement  
-- “Visit the Gym” and “Hire Us” information  
-- Volunteer opportunities and donation call-to-action  
-- Social media links and contact info  
+This project is a static, front-end website built to promote **Level Ground Mixed Martial Arts**, highlight its mission, and engage the community through:  
+- 🥊 Martial arts and mentorship programs  
+- 💼 Hire and visit opportunities  
+- 🙌 Volunteer and donation calls-to-action  
+- 📱 A clean, responsive layout  
 
 ---
 
@@ -22,11 +21,11 @@ It includes:
 
 | Technology | Purpose |
 |-------------|----------|
-| **HTML5** | Page structure and semantic content |
-| **CSS3** | Styling and responsive layout |
-| **Font Awesome** | Social media and UI icons |
+| **HTML5** | Page structure and semantic markup |
+| **CSS3** | Styling, layout, and responsiveness |
+| **Font Awesome** | Icons and UI visuals |
 | **Google Fonts (Montserrat)** | Typography |
-| **Static Assets** | Local images and media |
+| **Static Assets (Images)** | Visual elements and branding |
 
 ---
 
